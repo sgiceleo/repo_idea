@@ -9,4 +9,6 @@ public interface IUser {
 
     // 这里是dev分支编写的代码
     public void run();
+
+    public void speak();
 }
