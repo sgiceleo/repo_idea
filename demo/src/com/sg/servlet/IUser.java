@@ -6,4 +6,7 @@ public interface IUser {
     public void deleteUser();
     public void queryUser();
     public void sum();
+
+    // 这里是dev分支编写的代码
+    public void run();
 }
